@@ -23,4 +23,4 @@ More about **Moein Mehrtash** :https://ww2.mathworks.cn/matlabcentral/fileexchan
 
 提取码：hhqb 
 
-contect with me : 1012181115@cugb.edu.cn
+Contect : 1012181115@cugb.edu.cn
