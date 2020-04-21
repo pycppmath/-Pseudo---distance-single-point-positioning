@@ -2,7 +2,7 @@
 
 ## 2020.04.21 第一次更新 v.21
 
-### 实现更多的功能和优化Achieve more functionality and optimizations
+### 实现更多的功能和优化
 
 ·实现卫星的自定义选择
 
@@ -16,7 +16,7 @@
 
 ·代码优化，减少文件交互，缩短计算时间
 
-Implement more functionality
+Implement more functionality and optimizations
 
 · custom selection of satellites
 
